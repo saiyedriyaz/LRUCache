@@ -1,3 +1,3 @@
 # LRUCache
 
-Demo Sample Implementation of LRU Cache in Java
+Demo of Sample Implementation of LRU Cache in Java
